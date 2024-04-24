@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|c:\\users\\tbrei\\onedrive\\desktop\\cit195\\gametracker\\gametracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|solutionrelative:gametracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|c:\\users\\tbrei\\onedrive\\desktop\\cit195\\gametracker\\gametracker\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|solutionrelative:gametracker\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|c:\\users\\tbrei\\onedrive\\desktop\\cit195\\gametracker\\gametracker\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|solutionrelative:gametracker\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|c:\\users\\tbrei\\onedrive\\desktop\\cit195\\gametracker\\gametracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|solutionrelative:gametracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|c:\\users\\tbrei\\onedrive\\desktop\\cit195\\gametracker\\gametracker\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|solutionrelative:gametracker\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|c:\\users\\tbrei\\onedrive\\desktop\\cit195\\gametracker\\gametracker\\pages\\videogames\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|solutionrelative:gametracker\\pages\\videogames\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|c:\\users\\tbrei\\onedrive\\desktop\\cit195\\gametracker\\gametracker\\pages\\videogames\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|solutionrelative:gametracker\\pages\\videogames\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|c:\\users\\tbrei\\onedrive\\desktop\\cit195\\gametracker\\gametracker\\pages\\videogames\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|solutionrelative:gametracker\\pages\\videogames\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|c:\\users\\tbrei\\onedrive\\desktop\\cit195\\gametracker\\gametracker\\pages\\videogames\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|solutionrelative:gametracker\\pages\\videogames\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|c:\\users\\tbrei\\onedrive\\desktop\\cit195\\gametracker\\gametracker\\pages\\videogames\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|solutionrelative:gametracker\\pages\\videogames\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|c:\\users\\tbrei\\onedrive\\desktop\\cit195\\gametracker\\gametracker\\pages\\videogames\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|solutionrelative:gametracker\\pages\\videogames\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|c:\\users\\tbrei\\onedrive\\desktop\\cit195\\gametracker\\gametracker\\pages\\videogames\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|solutionrelative:gametracker\\pages\\videogames\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|c:\\users\\tbrei\\onedrive\\desktop\\cit195\\gametracker\\gametracker\\pages\\videogames\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|solutionrelative:gametracker\\pages\\videogames\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|c:\\users\\tbrei\\onedrive\\desktop\\cit195\\gametracker\\gametracker\\pages\\videogames\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|solutionrelative:gametracker\\pages\\videogames\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|c:\\users\\tbrei\\onedrive\\desktop\\cit195\\gametracker\\gametracker\\pages\\videogames\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|solutionrelative:gametracker\\pages\\videogames\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|c:\\users\\tbrei\\onedrive\\desktop\\cit195\\gametracker\\gametracker\\data\\gametrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|solutionrelative:gametracker\\data\\gametrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|c:\\users\\tbrei\\onedrive\\desktop\\cit195\\gametracker\\gametracker\\models\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|solutionrelative:gametracker\\models\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|c:\\users\\tbrei\\onedrive\\desktop\\cit195\\gametracker\\gametracker\\migrations\\20240424204316_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E16AAE2-8F40-4456-A137-AE55CD7BA11B}|GameTracker\\GameTracker.csproj|solutionrelative:gametracker\\migrations\\20240424204316_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GameTracker\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GameTracker\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T21:17:41.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameTracker\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Pages\\Index.cshtml",
+              "RelativeToolTip": "GameTracker\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T20:55:24.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "GameTracker\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "GameTracker\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-24T20:44:40.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240424204316_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Migrations\\20240424204316_InitialCreate.cs",
+              "RelativeDocumentMoniker": "GameTracker\\Migrations\\20240424204316_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Migrations\\20240424204316_InitialCreate.cs",
+              "RelativeToolTip": "GameTracker\\Migrations\\20240424204316_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:43:17.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "GameTracker\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Models\\SeedData.cs",
+              "RelativeToolTip": "GameTracker\\Models\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:28:57.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Pages\\VideoGames\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "GameTracker\\Pages\\VideoGames\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Pages\\VideoGames\\Index.cshtml.cs",
+              "RelativeToolTip": "GameTracker\\Pages\\VideoGames\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:26:35.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Pages\\VideoGames\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameTracker\\Pages\\VideoGames\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Pages\\VideoGames\\Index.cshtml",
+              "RelativeToolTip": "GameTracker\\Pages\\VideoGames\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T20:26:35.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Pages\\VideoGames\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "GameTracker\\Pages\\VideoGames\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Pages\\VideoGames\\Delete.cshtml.cs",
+              "RelativeToolTip": "GameTracker\\Pages\\VideoGames\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:26:35.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Program.cs",
+              "RelativeDocumentMoniker": "GameTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Program.cs",
+              "RelativeToolTip": "GameTracker\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:26:34.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Pages\\VideoGames\\Delete.cshtml",
+              "RelativeDocumentMoniker": "GameTracker\\Pages\\VideoGames\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Pages\\VideoGames\\Delete.cshtml",
+              "RelativeToolTip": "GameTracker\\Pages\\VideoGames\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T20:26:35.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Pages\\VideoGames\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "GameTracker\\Pages\\VideoGames\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Pages\\VideoGames\\Details.cshtml.cs",
+              "RelativeToolTip": "GameTracker\\Pages\\VideoGames\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:26:35.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Pages\\VideoGames\\Details.cshtml",
+              "RelativeDocumentMoniker": "GameTracker\\Pages\\VideoGames\\Details.cshtml",
+              "ToolTip": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Pages\\VideoGames\\Details.cshtml",
+              "RelativeToolTip": "GameTracker\\Pages\\VideoGames\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T20:26:35.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Pages\\VideoGames\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "GameTracker\\Pages\\VideoGames\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Pages\\VideoGames\\Edit.cshtml.cs",
+              "RelativeToolTip": "GameTracker\\Pages\\VideoGames\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:26:34.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Pages\\VideoGames\\Edit.cshtml",
+              "RelativeDocumentMoniker": "GameTracker\\Pages\\VideoGames\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Pages\\VideoGames\\Edit.cshtml",
+              "RelativeToolTip": "GameTracker\\Pages\\VideoGames\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T20:26:34.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Pages\\VideoGames\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "GameTracker\\Pages\\VideoGames\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Pages\\VideoGames\\Create.cshtml.cs",
+              "RelativeToolTip": "GameTracker\\Pages\\VideoGames\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:26:34.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Pages\\VideoGames\\Create.cshtml",
+              "RelativeDocumentMoniker": "GameTracker\\Pages\\VideoGames\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Pages\\VideoGames\\Create.cshtml",
+              "RelativeToolTip": "GameTracker\\Pages\\VideoGames\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T20:26:34.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameTrackerContext.cs",
+              "DocumentMoniker": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Data\\GameTrackerContext.cs",
+              "RelativeDocumentMoniker": "GameTracker\\Data\\GameTrackerContext.cs",
+              "ToolTip": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Data\\GameTrackerContext.cs",
+              "RelativeToolTip": "GameTracker\\Data\\GameTrackerContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:26:34.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VideoGame.cs",
+              "DocumentMoniker": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Models\\VideoGame.cs",
+              "RelativeDocumentMoniker": "GameTracker\\Models\\VideoGame.cs",
+              "ToolTip": "C:\\Users\\tbrei\\OneDrive\\Desktop\\CIT195\\GameTracker\\GameTracker\\Models\\VideoGame.cs",
+              "RelativeToolTip": "GameTracker\\Models\\VideoGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:21:07.695Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
